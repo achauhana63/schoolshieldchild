@@ -9,6 +9,8 @@ public class MyApplication extends Application {
     private static MyApplication mInstance;
 
 
+    private static int forGit;
+
     //region Constant Variables
     public static String DEVICE_TOKEN="TOKEN";
     public static String STUDENT_ID="STUDENT_ID";

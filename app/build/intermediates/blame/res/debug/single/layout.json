@@ -4,22 +4,6 @@
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
     },
     {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
     },
@@ -32,10 +16,6 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
@@ -44,12 +24,16 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_progress.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
@@ -64,6 +48,102 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
     },
     {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/tutorialpager_item.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/src/main/res/layout/tutorialpager_item.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/activity_tutorial.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/src/main/res/layout/activity_tutorial.xml"
     },
@@ -72,72 +152,48 @@
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
     },
     {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
-    },
-    {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
@@ -148,32 +204,12 @@
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
@@ -184,16 +220,128 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
     },
     {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_progress.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/custom_progress_dialog.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/src/main/res/layout/custom_progress_dialog.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/src/main/res/layout/activity_splash.xml"
+    },
+    {
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/activity_tutorial.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/src/main/res/layout/activity_tutorial.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
@@ -208,24 +356,16 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_progress.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
@@ -236,120 +376,80 @@
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/src/main/res/layout/activity_splash.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_expanded_menu_layout.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_powered_by_google.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_powered_by_google.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_list_item.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
+    },
+    {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
     },
     {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_template_lines.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/src/main/res/layout/activity_splash.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
-    },
-    {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_singlechoice_material.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/custom_progress_dialog.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/src/main/res/layout/custom_progress_dialog.xml"
     },
     {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_singlechoice_material.xml",
@@ -364,12 +464,20 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/src/main/res/layout/activity_home.xml"
     },
     {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+    },
+    {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
@@ -380,32 +488,32 @@
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/custom_progress_dialog.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/src/main/res/layout/custom_progress_dialog.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
     },
     {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/custom_progress_dialog.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/src/main/res/layout/custom_progress_dialog.xml"
+    },
+    {
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
     },
     {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
@@ -428,12 +536,12 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
     },
     {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
@@ -442,6 +550,10 @@
     {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
@@ -454,6 +566,14 @@
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_mode_bar.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_bar.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_search_dropdown_item_icons_2line.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_dropdown_item_icons_2line.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
@@ -480,12 +600,16 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_lines.xml"
     },
     {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+    },
+    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_search_view.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_search_view.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
@@ -496,32 +620,36 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/tutorialpager_item.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/src/main/res/layout/tutorialpager_item.xml"
     },
     {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/src/main/res/layout/activity_splash.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/src/main/res/layout/activity_home.xml"
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_controller_material_dialog_b.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_controller_material_dialog_b.xml"
     },
     {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/src/main/res/layout/activity_home.xml"
+    },
+    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_media_cancel_action.xml",
@@ -548,16 +676,24 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/src/main/res/layout/activity_home.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_list_item.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/src/main/res/layout/activity_login.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
@@ -576,12 +712,16 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/place_autocomplete_progress.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_progress.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/activity_tutorial.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/src/main/res/layout/activity_tutorial.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/support_simple_spinner_dropdown_item.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/support_simple_spinner_dropdown_item.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/activity_login.xml",
@@ -592,10 +732,6 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/src/main/res/layout/activity_login.xml"
     },
     {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
-    },
-    {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/activity_splash.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/src/main/res/layout/activity_splash.xml"
     },
@@ -604,60 +740,44 @@
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_layout.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_layout.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_radio.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_radio.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_item_prediction.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_item_prediction.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/activity_home.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/src/main/res/layout/activity_home.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_action_menu_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_icon.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
@@ -668,36 +788,132 @@
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/notification_template_media.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_media.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_screen_toolbar.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_toolbar.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/select_dialog_multichoice_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_multichoice_material.xml"
     },
     {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_title_item.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_title_item.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
-    },
-    {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_list_item.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_list_item.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_screen_simple_overlay_action_mode.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple_overlay_action_mode.xml"
+    },
+    {
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
+    },
+    {
+        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/activity_tutorial.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/src/main/res/layout/activity_tutorial.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_template_part_chronometer.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_chronometer.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/select_dialog_item_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/select_dialog_item_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/mr_media_route_chooser_dialog.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/mediarouter-v7/23.0.0/res/layout/mr_media_route_chooser_dialog.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_up_container.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_up_container.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view_list_item.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_simple.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_simple.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_dialog_title_material.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_dialog_title_material.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/place_autocomplete_fragment.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-location/8.4.0/res/layout/place_autocomplete_fragment.xml"
     },
     {
         "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_template_big_media_narrow.xml",
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_big_media_narrow.xml"
     },
     {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/notification_template_part_time.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_template_part_time.xml"
+    },
+    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_popup_menu_item_layout.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_popup_menu_item_layout.xml"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_activity_chooser_view.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view.xml"
     },
     {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/notification_template_big_media.xml",
@@ -720,18 +936,6 @@
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_activity_chooser_view_list_item.xml"
     },
     {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_mode_close_item_material.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_mode_close_item_material.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_action_bar_view_list_nav_layout.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_bar_view_list_nav_layout.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_screen_content_include.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_screen_content_include.xml"
-    },
-    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_alert_dialog_button_bar_material.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_alert_dialog_button_bar_material.xml"
     },
@@ -740,15 +944,11 @@
         "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_icon.xml"
     },
     {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/res/merged/debug/layout/abc_action_menu_item_layout.xml",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/Final School Shield/Child/schoolshieldchild/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_action_menu_item_layout.xml"
+    },
+    {
         "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/layout/abc_list_menu_item_checkbox.xml",
         "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_list_menu_item_checkbox.xml"
-    },
-    {
-        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/layout/notification_media_action.xml",
-        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/notification_media_action.xml"
-    },
-    {
-        "merged": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/layout/abc_select_dialog_material.xml",
-        "source": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/layout/abc_select_dialog_material.xml"
     }
 ]
