@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">School Shield Child</string>
+    <string name="welcometext">Welcome to SchoolShield</string>
+    <string name="welcomeAgreetext">Please agree and continue our terms and conditions to use this application</string>
+    <string name="termsofservices">TERMS OF SERVICES</string>
+    <string name="agreeandcontinue">AGREE AND CONTINUE</string>
+    <string name="next">Next</string>
+    <string name="loginText">Please check child pin in Parent\n Application From child section</string>
+    <string name="howtogetpin">How To Get Pin?</string>
+    <string name="childpin">Child Pin</string>
+    <string name="login_confirm">Confirm</string>
+    <string name="sender_id">584880072279</string>
+    <string name="done">Done</string>
+    <string name="loginsuccessfully">Login SuccessFully</string>
+    <string name="loginUnSuccesfully">Unable to register your device , Please restart application</string>
+
+
+    <array name="TutorialText">
+        <item>How to use Parent Application</item>
+        <item>Select My Children Option</item>
+        <item>Get Child Pin</item>
+
+    </array>
+
+</resources>

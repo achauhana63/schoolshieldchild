@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    },
+    {
+        "merged": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/raw/gtm_analytics",
+        "source": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.google.android.gms/play-services-analytics/8.4.0/res/raw/gtm_analytics"
+    }
+]

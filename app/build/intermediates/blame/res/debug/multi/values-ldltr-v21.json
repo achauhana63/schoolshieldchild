@@ -1,0 +1,98 @@
+[
+    {
+        "outputFile": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/values-ldltr-v21/values-ldltr-v21.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 112,
+                    "endOffset": 163
+                },
+                "from": {
+                    "file": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/exploded-aar/com.android.support/appcompat-v7/23.4.0/res/values-ldltr-v21/values-ldltr-v21.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 112,
+                        "endOffset": 163
+                    }
+                }
+            }
+        ]
+    }
+]
