@@ -1,29 +1,5 @@
 [
     {
-        "outputFile": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
-        "map": [
-            {
-                "to": {
-                    "startLine": 2,
-                    "startColumn": 4,
-                    "startOffset": 55,
-                    "endColumn": 57,
-                    "endOffset": 108
-                },
-                "from": {
-                    "file": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/src/main/res/values-w820dp/dimens.xml",
-                    "position": {
-                        "startLine": 4,
-                        "startColumn": 4,
-                        "startOffset": 291,
-                        "endColumn": 57,
-                        "endOffset": 344
-                    }
-                }
-            }
-        ]
-    },
-    {
         "outputFile": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
@@ -36,6 +12,30 @@
                 },
                 "from": {
                     "file": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Updated 25/Wok 25 July/Child/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "outputFile": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/School Shield/Child/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
@@ -72,6 +72,30 @@
         ]
     },
     {
+        "outputFile": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 57,
+                    "endOffset": 108
+                },
+                "from": {
+                    "file": "/media/New Volume/Projects/July Projects/School Shield/Child/app/src/main/res/values-w820dp/dimens.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 291,
+                        "endColumn": 57,
+                        "endOffset": 344
+                    }
+                }
+            }
+        ]
+    },
+    {
         "outputFile": "/media/mobile/588A4AF10255709C/Aaratidata /allprojectdata/SchoolShield/Wok 25 July/Child/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
@@ -96,7 +120,7 @@
         ]
     },
     {
-        "outputFile": "/media/New Volume/Projects/July Projects/School Shield/Child/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
+        "outputFile": "/media/New Volume/Projects/July Projects/School Shield/School Shield From Git/schoolshieldchild/app/build/intermediates/res/merged/debug/values-w820dp-v13/values-w820dp-v13.xml",
         "map": [
             {
                 "to": {
@@ -107,7 +131,7 @@
                     "endOffset": 108
                 },
                 "from": {
-                    "file": "/media/New Volume/Projects/July Projects/School Shield/Child/app/src/main/res/values-w820dp/dimens.xml",
+                    "file": "/media/New Volume/Projects/July Projects/School Shield/School Shield From Git/schoolshieldchild/app/src/main/res/values-w820dp/dimens.xml",
                     "position": {
                         "startLine": 4,
                         "startColumn": 4,
