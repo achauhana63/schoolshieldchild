@@ -4,6 +4,8 @@ package com.schoolshieldchild.view.activity;
 import butterknife.Unbinder;
 import butterknife.internal.Finder;
 import butterknife.internal.ViewBinder;
+import java.lang.Object;
+import java.lang.Override;
 
 public final class LoginActivity_ViewBinder implements ViewBinder<LoginActivity> {
   @Override

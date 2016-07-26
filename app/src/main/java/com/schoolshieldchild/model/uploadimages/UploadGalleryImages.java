@@ -5,8 +5,6 @@ import android.util.Log;
 
 import com.schoolshieldchild.app.MyApplication;
 import com.schoolshieldchild.controller.helper.prefs.SharedPref;
-import com.schoolshieldchild.view.activity.UploadApplications;
-import com.schoolshieldchild.view.database.DataBaseHandler;
 
 import org.apache.http.HttpEntity;
 import org.apache.http.HttpResponse;
@@ -17,8 +15,6 @@ import org.apache.http.entity.mime.MultipartEntity;
 import org.apache.http.entity.mime.content.FileBody;
 import org.apache.http.entity.mime.content.StringBody;
 import org.apache.http.impl.client.DefaultHttpClient;
-import org.json.JSONException;
-import org.json.JSONObject;
 
 import java.io.BufferedReader;
 import java.io.File;
@@ -102,8 +98,8 @@ public class UploadGalleryImages extends AsyncTask<String, String, String> {
     @Override
     protected void onPostExecute(String response) {
         super.onPostExecute(response);
-        try {
-            JSONObject jsonObject = new JSONObject(response);
+        /*try {
+         *//*   JSONObject jsonObject = new JSONObject(response);
             JSONObject resultResponse = jsonObject.getJSONObject("result");
             if (resultResponse.get("status").toString().equalsIgnoreCase("1")) {
                 DataBaseHandler dataBaseHandler = new DataBaseHandler(MyApplication.getInstance().getApplicationContext());
@@ -118,12 +114,12 @@ public class UploadGalleryImages extends AsyncTask<String, String, String> {
             } else {
                 UploadApplications.galleryImage_value = Integer.parseInt(galleryImageval) + 1;
                 UploadApplications.UploadGalleryImages();
-            }
+            }*//*
 
         } catch (JSONException e) {
             e.printStackTrace();
         }
-
+*/
 
     }
 }

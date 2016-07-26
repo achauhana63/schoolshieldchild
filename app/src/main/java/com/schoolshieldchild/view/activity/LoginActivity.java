@@ -16,6 +16,7 @@ import com.schoolshieldchild.app.MyApplication;
 import com.schoolshieldchild.controller.helper.Consts_Variable;
 import com.schoolshieldchild.controller.helper.prefs.SharedPref;
 import com.schoolshieldchild.controller.utils.DialogManager;
+import com.schoolshieldchild.model.login.Login;
 import com.schoolshieldchild.presenter.WebServiceResult;
 import com.schoolshieldchild.pushnotification.RegestrationIntentservice;
 import com.schoolshieldchild.view.custom_controls.Button_Regular;
@@ -33,7 +34,11 @@ public class LoginActivity extends AppCompatActivity {
     EditText_Regular editText_childpin;
     @BindView(R.id.textView_HowToGetPin)
     TextView_Regular textView_HowToGetPin;
-    public static Activity activity;
+    public static LoginActivity instance;
+
+    public static LoginActivity getInstance() {
+        return instance;
+    }
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
@@ -41,7 +46,7 @@ public class LoginActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_login);
         ButterKnife.bind(this);
-        activity = LoginActivity.this;
+        instance = LoginActivity.this;
         ActionBar actionBar = getSupportActionBar();
         actionBar.hide();
         showConfirmButton();
@@ -82,8 +87,19 @@ public class LoginActivity extends AppCompatActivity {
             Toast.makeText(getApplicationContext(), R.string.loginUnSuccesfully,
                     Toast.LENGTH_SHORT).show();
 
-
     }
 
 
+    public void updateLogin(Login response) {
+
+        if (response.getResult().getStatus().toString().equalsIgnoreCase("1")) {
+            SharedPref.setString(MyApplication.STUDENT_ID, response.getResult().getStudentId().toString());
+            Toast.makeText(MyApplication.getInstance().getApplicationContext(), R.string.loginsuccessfully, Toast.LENGTH_SHORT).show();
+            Intent intent = new Intent(MyApplication.getInstance().getApplicationContext(), HomeActivity.class);
+            startActivity(intent);
+            finish();
+        } else {
+        }
+
+    }
 }
