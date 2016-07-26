@@ -51,7 +51,7 @@
             android:name="com.schoolshieldchild.view.services.UploadApplications"
             android:enabled="true"
             android:exported="true" />
-
+        //Application reboot detect
         <receiver
             android:name="com.schoolshieldchild.view.services.BootUpReceiver"
             android:enabled="true"
@@ -62,7 +62,11 @@
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </receiver>
-
+        // Application reboot end
+        <service
+            android:name="com.schoolshieldchild.view.services.UploadGalleryImages"
+            android:enabled="true"
+            android:exported="true" />
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

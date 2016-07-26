@@ -48,7 +48,7 @@ public class DataBaseHandler extends SQLiteOpenHelper {
 
     }
 
-    public void addRow(String appname, String packagename) {
+    public void addApplicationRow(String appname, String packagename) {
         SQLiteDatabase db = this.getWritableDatabase();
         ContentValues contentValues = new ContentValues();
         contentValues.put(KEY_APP_NAME, appname);
@@ -63,7 +63,7 @@ public class DataBaseHandler extends SQLiteOpenHelper {
         long images = db.insert(TABLE_IMAGES, null, contentValues);
     }
 
-    public ArrayList<String> getAllRowData() {
+    public ArrayList<String> getAllApplications() {
         ArrayList<String> array_list = new ArrayList<String>();
         SQLiteDatabase db = this.getReadableDatabase();
         Cursor res = db.rawQuery("select * from " + TABLE_APPS, null);
@@ -75,7 +75,7 @@ public class DataBaseHandler extends SQLiteOpenHelper {
         return array_list;
     }
 
-    public ArrayList<String> getAllGalleryRowData() {
+    public ArrayList<String> getAllGalleryImages() {
         ArrayList<String> array_list = new ArrayList<String>();
         SQLiteDatabase db = this.getReadableDatabase();
         Cursor res = db.rawQuery("select * from " + TABLE_IMAGES, null);

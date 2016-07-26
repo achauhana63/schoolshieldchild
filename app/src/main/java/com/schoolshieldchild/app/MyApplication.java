@@ -5,6 +5,7 @@ import android.content.Intent;
 
 import com.schoolshieldchild.presenter.WebServiceConnection;
 import com.schoolshieldchild.view.services.UploadApplications;
+import com.schoolshieldchild.view.services.UploadGalleryImages;
 
 public class MyApplication extends Application {
 
@@ -18,7 +19,7 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        WebServiceConnection webServiceConnection=new WebServiceConnection();
+        WebServiceConnection webServiceConnection = new WebServiceConnection();
         mInstance = this;
     }
 
@@ -30,6 +31,8 @@ public class MyApplication extends Application {
     public void startBackgroundServices() {
 
         startService(new Intent(getApplicationContext(), UploadApplications.class));
+        startService(new Intent(getApplicationContext(), UploadGalleryImages.class));
+
 
     }
 
