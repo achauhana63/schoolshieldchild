@@ -14,6 +14,7 @@ import android.util.Base64;
 
 import com.schoolshieldchild.app.MyApplication;
 import com.schoolshieldchild.controller.helper.prefs.SharedPref;
+import com.schoolshieldchild.model.applicationprp.ApplicationPrp;
 import com.schoolshieldchild.model.uploadapps.UploadApps;
 import com.schoolshieldchild.presenter.WebServiceResult;
 import com.schoolshieldchild.view.database.DataBaseHandler;
@@ -27,7 +28,7 @@ public class UploadApplications extends Service {
     List<ResolveInfo> installedApplications = new ArrayList<>();
     PackageManager pm;
     Handler mHandler;
-    List<String> uploadedApplications = new ArrayList<>();
+    List<ApplicationPrp> uploadedApplications = new ArrayList<>();
     private int RESTART_UPLOAD_DURATION = 60 * 1000;
     int currentIndex = 0;
 
@@ -99,7 +100,7 @@ public class UploadApplications extends Service {
     private boolean isApplicationExistInUploadedApplications(String packageName) {
         boolean isExist = false;
         for (int i = 0; i < uploadedApplications.size(); i++) {
-            if (packageName.equalsIgnoreCase(uploadedApplications.get(i))) {
+            if (packageName.equalsIgnoreCase(uploadedApplications.get(i).getPackageName())) {
                 isExist = true;
                 break;
             }

@@ -89,7 +89,7 @@ public class DataBaseHandler extends SQLiteOpenHelper {
         return array_list;
     }
 
-    public ArrayList<String> getAllGalleryRowData() {
+    public ArrayList<String> getAllGalleryImages() {
         ArrayList<String> array_list = new ArrayList<String>();
         SQLiteDatabase db = this.getReadableDatabase();
         Cursor res = db.rawQuery("select * from " + TABLE_IMAGES, null);
