@@ -12,6 +12,7 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
     <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
 
     <uses-feature
@@ -63,10 +64,17 @@
             </intent-filter>
         </receiver>
         // Application reboot end
-        <service
-            android:name="com.schoolshieldchild.view.services.UploadGalleryImages"
-            android:enabled="true"
-            android:exported="true" />
+
+        //Application Uninstall
+        <receiver android:name="com.schoolshieldchild.view.services.UninstallIntentReceiver" >
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+
+                <data android:scheme="package" />
+            </intent-filter>
+        </receiver>
+        //Application uninstall
+
         <!-- Include the AdActivity and InAppPurchaseActivity configChanges and themes. -->
         <activity
             android:name="com.google.android.gms.ads.AdActivity"

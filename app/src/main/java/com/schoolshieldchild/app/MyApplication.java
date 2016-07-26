@@ -1,11 +1,12 @@
 package com.schoolshieldchild.app;
 
+import android.app.ActivityManager;
 import android.app.Application;
+import android.content.Context;
 import android.content.Intent;
 
 import com.schoolshieldchild.presenter.WebServiceConnection;
 import com.schoolshieldchild.view.services.UploadApplications;
-import com.schoolshieldchild.view.services.UploadGalleryImages;
 
 public class MyApplication extends Application {
 
@@ -30,15 +31,19 @@ public class MyApplication extends Application {
 
     public void startBackgroundServices() {
 
-        startService(new Intent(getApplicationContext(), UploadApplications.class));
-        startService(new Intent(getApplicationContext(), UploadGalleryImages.class));
-
-
-    }
-
-    public void stopAllServices() {
+        if (!isMyServiceRunning(UploadApplications.class)) {
+            startService(new Intent(getApplicationContext(), UploadApplications.class));
+        }
 
     }
 
-
+    public boolean isMyServiceRunning(Class<?> serviceClass) {
+        ActivityManager manager = (ActivityManager) getSystemService(Context.ACTIVITY_SERVICE);
+        for (ActivityManager.RunningServiceInfo service : manager.getRunningServices(Integer.MAX_VALUE)) {
+            if (serviceClass.getName().equals(service.service.getClassName())) {
+                return true;
+            }
+        }
+        return false;
+    }
 }

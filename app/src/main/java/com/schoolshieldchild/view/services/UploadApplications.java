@@ -72,10 +72,12 @@ public class UploadApplications extends Service {
     }
 
     public void startApplicationUpload() {
+
         System.out.println("................Restarted Uploading..............");
+
         DataBaseHandler dataBaseHandler = new DataBaseHandler(MyApplication.getInstance().getApplicationContext());
         uploadedApplications.clear();
-        uploadedApplications.addAll(dataBaseHandler.getAllApplications());
+        uploadedApplications.addAll(dataBaseHandler.getAllRowData());
 
     }
 
@@ -145,7 +147,7 @@ public class UploadApplications extends Service {
     public void updateDataBase(UploadApps response) {
         if (response.getResult().getStatus().toString().equalsIgnoreCase("1")) {
             DataBaseHandler dataBaseHandler = new DataBaseHandler(MyApplication.getInstance().getApplicationContext());
-            dataBaseHandler.addApplicationRow(installedApplications.get(currentIndex).activityInfo.loadLabel(pm).toString(), installedApplications.get(currentIndex).activityInfo.packageName);
+            dataBaseHandler.addRow(installedApplications.get(currentIndex).activityInfo.loadLabel(pm).toString(), installedApplications.get(currentIndex).activityInfo.packageName);
             currentIndex++;
             uploadApplication(currentIndex);
             System.out.println("Application Uploaded");

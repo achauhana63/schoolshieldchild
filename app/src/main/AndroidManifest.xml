@@ -6,6 +6,8 @@
     <uses-permission android:name="android.permission.INTERNET" />
     <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
     <uses-permission android:name="android.permission.RECEIVE_BOOT_COMPLETED" />
+    <uses-permission android:name="android.permission.GET_TASKS" />
+
 
     <application
         android:name=".app.MyApplication"
@@ -31,29 +33,36 @@
             android:screenOrientation="portrait" />
 
         <service android:name=".pushnotification.RegestrationIntentservice" />
-
         <activity android:name=".view.activity.HomeActivity" />
-
         <service
             android:name=".view.services.UploadApplications"
             android:enabled="true"
-            android:exported="true" />
+            android:exported="true"></service>
+
+
         //Application reboot detect
+
         <receiver
             android:name=".view.services.BootUpReceiver"
             android:enabled="true"
             android:permission="android.permission.RECEIVE_BOOT_COMPLETED">
             <intent-filter>
                 <action android:name="android.intent.action.BOOT_COMPLETED" />
-
                 <category android:name="android.intent.category.DEFAULT" />
             </intent-filter>
         </receiver>
         // Application reboot end
-        <service
-            android:name=".view.services.UploadGalleryImages"
-            android:enabled="true"
-            android:exported="true"></service>
+
+        //Application Uninstall
+        <receiver android:name =".view.services.UninstallIntentReceiver">
+            <intent-filter>
+                <action android:name="android.intent.action.PACKAGE_REMOVED" />
+                <data android:scheme="package"/>
+
+            </intent-filter>
+        </receiver>
+        //Application uninstall
+
     </application>
 
 </manifest>
