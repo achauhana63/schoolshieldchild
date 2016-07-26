@@ -27,7 +27,6 @@ public class RegestrationIntentservice extends IntentService {
             String token = instanceID.getToken(getResources().getString(R.string.sender_id),
                     GoogleCloudMessaging.INSTANCE_ID_SCOPE, null);
             SharedPref.setString(MyApplication.DEVICE_TOKEN, token);
-            Log.d("Token============", token);
         } catch (IOException e) {
             e.printStackTrace();
         }
