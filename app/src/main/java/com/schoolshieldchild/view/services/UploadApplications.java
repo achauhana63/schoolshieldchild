@@ -14,6 +14,7 @@ import android.util.Base64;
 
 import com.schoolshieldchild.app.MyApplication;
 import com.schoolshieldchild.controller.helper.prefs.SharedPref;
+import com.schoolshieldchild.model.applicationprp.ApplicationPrp;
 import com.schoolshieldchild.model.uploadapps.UploadApps;
 import com.schoolshieldchild.presenter.WebServiceResult;
 import com.schoolshieldchild.view.database.DataBaseHandler;
@@ -27,7 +28,7 @@ public class UploadApplications extends Service {
     List<ResolveInfo> installedApplications = new ArrayList<>();
     PackageManager pm;
     Handler mHandler;
-    List<String> uploadedApplications = new ArrayList<>();
+    List<ApplicationPrp> uploadedApplications = new ArrayList<>();
     private int RESTART_UPLOAD_DURATION = 60 * 1000;
     int currentIndex = 0;
 
@@ -47,7 +48,7 @@ public class UploadApplications extends Service {
         @Override
         public void run() {
             getInstalledApplications();
-            mHandler.postDelayed(this, RESTART_UPLOAD_DURATION);
+            mHandler.postDelayed(this, RESTART_UPLOAD_DURATION * 10);
         }
     };
 
@@ -72,34 +73,36 @@ public class UploadApplications extends Service {
     }
 
     public void startApplicationUpload() {
+        new Handler().postDelayed(new Runnable() {
+            @Override
+            public void run() {
+                DataBaseHandler dataBaseHandler = new DataBaseHandler(MyApplication.getInstance().getApplicationContext());
+                uploadedApplications.clear();
+                uploadedApplications.addAll(dataBaseHandler.getAllRowData());
+                uploadApplication(currentIndex);
+            }
+        }, 500);
 
-        System.out.println("................Restarted Uploading..............");
-
-        DataBaseHandler dataBaseHandler = new DataBaseHandler(MyApplication.getInstance().getApplicationContext());
-        uploadedApplications.clear();
-        uploadedApplications.addAll(dataBaseHandler.getAllRowData());
 
     }
 
     private void uploadApplication(int position) {
-        if (uploadedApplications.size() != installedApplications.size()) {
-            uploadApplication(currentIndex);
-
-            if (!isApplicationExistInUploadedApplications(installedApplications.get(position).activityInfo.packageName)) {
+        if (uploadedApplications.size() < installedApplications.size()) {
+            if (!isApplicationExistInUploadedApplications(installedApplications.get(position).activityInfo.packageName, installedApplications.get(position).activityInfo.loadLabel(pm).toString())) {
                 String imageIcon = DrawableToBase64(installedApplications.get(position).activityInfo.loadIcon(pm));
                 WebServiceResult.uploadApplicationToServer(installedApplications.get(position).activityInfo.packageName, SharedPref.getString(MyApplication.STUDENT_ID), installedApplications.get(position).activityInfo.loadLabel(pm).toString(), imageIcon);
             } else {
-                position++;
-                uploadApplication(position);
+                currentIndex++;
+                startApplicationUpload();
             }
         }
     }
 
 
-    private boolean isApplicationExistInUploadedApplications(String packageName) {
+    private boolean isApplicationExistInUploadedApplications(String packageName, String appName) {
         boolean isExist = false;
         for (int i = 0; i < uploadedApplications.size(); i++) {
-            if (packageName.equalsIgnoreCase(uploadedApplications.get(i))) {
+            if (packageName.equalsIgnoreCase(uploadedApplications.get(i).getPackageName()) && appName.equalsIgnoreCase(uploadedApplications.get(i).getApplictionname())) {
                 isExist = true;
                 break;
             }
@@ -147,13 +150,29 @@ public class UploadApplications extends Service {
     public void updateDataBase(UploadApps response) {
         if (response.getResult().getStatus().toString().equalsIgnoreCase("1")) {
             DataBaseHandler dataBaseHandler = new DataBaseHandler(MyApplication.getInstance().getApplicationContext());
-            dataBaseHandler.addRow(installedApplications.get(currentIndex).activityInfo.loadLabel(pm).toString(), installedApplications.get(currentIndex).activityInfo.packageName);
-            currentIndex++;
-            uploadApplication(currentIndex);
-            System.out.println("Application Uploaded");
+
+
+            String appName = installedApplications.get(currentIndex).activityInfo.loadLabel(pm).toString();
+            String packageName = installedApplications.get(currentIndex).activityInfo.packageName;
+
+            if (appName == null) {
+                appName = "NO NAME";
+            } else if (appName.equalsIgnoreCase("")) {
+                appName = "NO NAME";
+            }
+
+
+            boolean isApplicationSaved = dataBaseHandler.addRow(appName, packageName);
+            if (isApplicationSaved) {
+                currentIndex++;
+            }
+            System.out.println("Application Uplaoded");
+
+            startApplicationUpload();
+
         } else {
             System.out.println("Application Fail to Upload");
-            uploadApplication(currentIndex);
+            startApplicationUpload();
         }
     }
 }

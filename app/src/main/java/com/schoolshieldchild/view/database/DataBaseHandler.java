@@ -3,8 +3,12 @@ package com.schoolshieldchild.view.database;
 import android.content.ContentValues;
 import android.content.Context;
 import android.database.Cursor;
+import android.database.SQLException;
 import android.database.sqlite.SQLiteDatabase;
+import android.database.sqlite.SQLiteException;
 import android.database.sqlite.SQLiteOpenHelper;
+
+import com.schoolshieldchild.model.applicationprp.ApplicationPrp;
 
 import java.util.ArrayList;
 
@@ -48,12 +52,21 @@ public class DataBaseHandler extends SQLiteOpenHelper {
 
     }
 
-    public void addRow(String appname, String packagename) {
-        SQLiteDatabase db = this.getWritableDatabase();
-        ContentValues contentValues = new ContentValues();
-        contentValues.put(KEY_APP_NAME, appname);
-        contentValues.put(KEY_PACKAGE_NAME, packagename);
-        long apps = db.insert(TABLE_APPS, null, contentValues);
+    public boolean addRow(String appname, String packagename) {
+        try {
+            SQLiteDatabase db = this.getWritableDatabase();
+            ContentValues contentValues = new ContentValues();
+            contentValues.put(KEY_APP_NAME, appname);
+            contentValues.put(KEY_PACKAGE_NAME, packagename);
+            long apps = db.insert(TABLE_APPS, null, contentValues);
+            return true;
+        } catch (SQLiteException e) {
+            return false;
+
+        } catch (Exception e) {
+            return false;
+
+        }
     }
 
     public void addGalleryImagesRow(String imagepath) {
@@ -63,14 +76,15 @@ public class DataBaseHandler extends SQLiteOpenHelper {
         long images = db.insert(TABLE_IMAGES, null, contentValues);
     }
 
-    public ArrayList<String> getAllRowData() {
-        ArrayList<String> array_list = new ArrayList<String>();
+    public ArrayList<ApplicationPrp> getAllRowData() {
+        ArrayList<ApplicationPrp> array_list = new ArrayList<ApplicationPrp>();
         SQLiteDatabase db = this.getReadableDatabase();
         Cursor res = db.rawQuery("select * from " + TABLE_APPS, null);
-        res.moveToFirst();
-        while (res.isAfterLast() == false) {
-            array_list.add(res.getString(res.getColumnIndex(KEY_PACKAGE_NAME)));
-            res.moveToNext();
+        while (res.moveToNext()) {
+            ApplicationPrp applicationPrp = new ApplicationPrp();
+            applicationPrp.setApplictionname(res.getString(res.getColumnIndex(KEY_APP_NAME)));
+            applicationPrp.setPackageName(res.getString(res.getColumnIndex(KEY_PACKAGE_NAME)));
+            array_list.add(applicationPrp);
         }
         return array_list;
     }
@@ -79,12 +93,24 @@ public class DataBaseHandler extends SQLiteOpenHelper {
         ArrayList<String> array_list = new ArrayList<String>();
         SQLiteDatabase db = this.getReadableDatabase();
         Cursor res = db.rawQuery("select * from " + TABLE_IMAGES, null);
-        res.moveToFirst();
-        while (res.isAfterLast() == false) {
+        while (res.moveToNext()) {
             array_list.add(res.getString(res.getColumnIndex(KEY_IMAGEPATH)));
-            res.moveToNext();
         }
         return array_list;
     }
 
+    public boolean deleteApplication(String packageName) {
+        try {
+            SQLiteDatabase db = this.getWritableDatabase();
+            String qry = "delete from " + TABLE_APPS + " where " + KEY_PACKAGE_NAME + "='" + packageName + "'";
+            db.execSQL(qry);
+            return true;
+        } catch (SQLException e) {
+            return false;
+        } catch (NullPointerException e) {
+            return false;
+        } catch (Exception e) {
+            return false;
+        }
+    }
 }

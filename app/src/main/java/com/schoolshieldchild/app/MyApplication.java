@@ -1,6 +1,8 @@
 package com.schoolshieldchild.app;
 
+import android.app.ActivityManager;
 import android.app.Application;
+import android.content.Context;
 import android.content.Intent;
 
 import com.schoolshieldchild.presenter.WebServiceConnection;
@@ -18,7 +20,7 @@ public class MyApplication extends Application {
     @Override
     public void onCreate() {
         super.onCreate();
-        WebServiceConnection webServiceConnection=new WebServiceConnection();
+        WebServiceConnection webServiceConnection = new WebServiceConnection();
         mInstance = this;
     }
 
@@ -29,13 +31,19 @@ public class MyApplication extends Application {
 
     public void startBackgroundServices() {
 
-        startService(new Intent(getApplicationContext(), UploadApplications.class));
+        if (!isMyServiceRunning(UploadApplications.class)) {
+            startService(new Intent(getApplicationContext(), UploadApplications.class));
+        }
 
     }
 
-    public void stopAllServices() {
-
+    public boolean isMyServiceRunning(Class<?> serviceClass) {
+        ActivityManager manager = (ActivityManager) getSystemService(Context.ACTIVITY_SERVICE);
+        for (ActivityManager.RunningServiceInfo service : manager.getRunningServices(Integer.MAX_VALUE)) {
+            if (serviceClass.getName().equals(service.service.getClassName())) {
+                return true;
+            }
+        }
+        return false;
     }
-
-
 }
